@@ -8,16 +8,3 @@
 * Focus only on text without any formatting.
 * Lightweight and simple.
 
-### Installation
-
-Install the extension directly from [Chrome Webstore](https://chrome.google.com/webstore/detail/zen-tab-pad/hgojnajokjdjlmfdonnnkgomloikhpnc).
-
-### Credits
-
-* Original extension by [sweenzor](https://github.com/sweenzor/new-tab-notepad)
-* Chrome Extensions by [coleifer](https://github.com/coleifer/chrome-extensions)
-* Textarea CSS by [eliotsykes](http://www.webdevbreak.com/episodes/zen-textarea-pure-css/demo)
-
-### Screenshot
-
-![](screenshot.png)

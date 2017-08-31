@@ -1,4 +1,4 @@
-# Zen Tab Pad
+# ZenNotes
 
 ## A New Tab Notepad for Chrome
 
